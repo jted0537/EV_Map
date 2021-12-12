@@ -1,4 +1,4 @@
-# EV Mapper
+# EV Map
 ## Electric Vehicle Mapper
 
 ------------------------------------------
